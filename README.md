@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">AWS Cloud Practitioner:<a href="https://www.credly.com/badges/e32c7100-cab5-4772-a0ff-326bc4d0474b/public_url">ere</a></p>
+<p align="left"<a href="https://www.credly.com/badges/e32c7100-cab5-4772-a0ff-326bc4d0474b/public_url">AWS Certified Cloud Practitioner</a></p>
 
 ###
 
