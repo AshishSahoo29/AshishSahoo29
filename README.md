@@ -14,6 +14,14 @@
 
 ###
 
+<h2 align="left">Certifications</h2>
+
+###
+
+<p align="left">AWS Cloud Practitioner:<a href="https://www.credly.com/badges/e32c7100-cab5-4772-a0ff-326bc4d0474b/public_url"></a></p>
+
+###
+
 <h2 align="left">Tech Stat I am familiar with</h2>
 
 ###
