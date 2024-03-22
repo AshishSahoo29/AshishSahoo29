@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is  Ashish...a passionate tech-enthusiast</p>
+<p align="left">I am Ashish...a passionate tech-enthusiast</p>
 
 ###
 
